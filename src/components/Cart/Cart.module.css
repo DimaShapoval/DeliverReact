@@ -1,0 +1,21 @@
+.wrapper{
+    display: grid;
+    grid-template-areas: "s m";
+    grid-template-columns: 30% 1fr ;
+}
+.main{
+    grid-area: m;
+}
+.sideBar{
+    grid-area: s;
+}
+@media screen and (max-width: 700px) {
+    .wrapper{
+        grid-template-columns: 40% 1fr;
+    }
+    .wrapper{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+}
