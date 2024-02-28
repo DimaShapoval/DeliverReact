@@ -6,4 +6,5 @@
 
 ### Main page
 
-![alt text](https://drive.google.com/file/d/137WmAdHaBnr3maIe1gxJWH40oiN8BlSy/view?usp=sharing)
+![Пример скриншота](https://drive.google.com/uc?export=download&id=137WmAdHaBnr3maIe1gxJWH40oiN8BlSy)
+
