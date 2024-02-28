@@ -6,11 +6,11 @@
 
 ### Main page
 
-![main page](https://drive.google.com/file/d/1HWCtHKHFt2DiIFaZ63EcYkaaV71rcwov)
+![main page](https://drive.google.com/file/d/137WmAdHaBnr3maIe1gxJWH40oiN8BlSy)
 
 ### Shop page
 
-![shop page](https://drive.google.com/file/d/1RaeFi87bye13Sd9hMoo0qdI-Bdv4vN6c)
+![shop page](https://drive.google.com/file/d/1JeqvFUJPLJacGP-5426J_lM7ou2i_CD4)
 
 ### Cart page
 
@@ -18,5 +18,5 @@
 
 ### Sign up/Login Page
 
-![sign up](https://drive.google.com/file/d/13P0f-8qfdj8wRjOzKloo4TYFCvH5ejPI)
-![login](https://drive.google.com/file/d/1UbSGnG-U1nXC9B9_7bheKXnEOpSfEUFg)
+![sign up](https://drive.google.com/file/d/1B-cixzqVqKaRVNTcHfmecvbil6IAs-2L)
+![login](https://drive.google.com/file/d/1x4wRhnpYnjMB2Mf37Me7Tsk3WDGwTSmv)
