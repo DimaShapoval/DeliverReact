@@ -6,17 +6,19 @@
 
 ### Main page
 
-![main page](https://drive.google.com/file/d/137WmAdHaBnr3maIe1gxJWH40oiN8BlSy)
+![main page](https://drive.google.com/uc?id=1HWCtHKHFt2DiIFaZ63EcYkaaV71rcwov)
+
 
 ### Shop page
 
-![shop page](https://drive.google.com/file/d/1JeqvFUJPLJacGP-5426J_lM7ou2i_CD4)
+![Shop Page](https://drive.google.com/uc?export=download&id=1RaeFi87bye13Sd9hMoo0qdI-Bdv4vN6c)
 
 ### Cart page
 
-![cart page](https://drive.google.com/file/d/1O0RO5ylu4qcEVOfAHlOH_v3tREGSAy46)
+![Cart Page](https://drive.google.com/uc?export=download&id=1O0RO5ylu4qcEVOfAHlOH_v3tREGSAy46)
 
 ### Sign up/Login Page
 
-![sign up](https://drive.google.com/file/d/1B-cixzqVqKaRVNTcHfmecvbil6IAs-2L)
-![login](https://drive.google.com/file/d/1x4wRhnpYnjMB2Mf37Me7Tsk3WDGwTSmv)
+![Sign Up](https://drive.google.com/uc?export=download&id=13P0f-8qfdj8wRjOzKloo4TYFCvH5ejPI)
+![Login](https://drive.google.com/uc?export=download&id=1UbSGnG-U1nXC9B9_7bheKXnEOpSfEUFg)
+
